@@ -8,7 +8,8 @@ I'm currently a technical validator at Charles Schwab and worked previously as a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=pearsonify&icon=0&color=0)](https://visitcount.itsvg.in)
+### Top Languages
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearsonify)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Tools utilized: GPRM ( https://gprm.itsvg.in ) and https://github.com/anuraghazra/github-readme-stats -->

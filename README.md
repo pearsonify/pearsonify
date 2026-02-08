@@ -13,6 +13,6 @@ I'm currently a technical validator at Charles Schwab and worked previously as a
 ![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearsonify)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Cass's GitHub stats](https://github-readme-stats.vercel.app/api?username=pearsonify&show_icons=true&theme=dracula)
-[![Cass's GitHub stats](https://github-readme-stats.vercel.app/api?username=pearsonify)](https://github.com/anuraghazra/github-readme-stats)
+[![Cass's GitHub stats](https://github-readme-stats.vercel.app/api?username=pearsonify)]
 
 <!-- Tools utilized: GPRM ( https://gprm.itsvg.in ) and https://github.com/anuraghazra/github-readme-stats -->

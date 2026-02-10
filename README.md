@@ -1,18 +1,12 @@
 # Resume:
 
----
-
 ## **Summary**
-
----
 
 As a Sr. Software Engineer at Deca Technologies, I developed tools and algorithms for semiconductor package design and electronics manufacturing, using Rust and Python. I further mentored other engineers in Rust, including best practices, modern techniques, and product architecture. I have a B.S. in Mathematics from Arizona State University, where I also led a volunteer project to create a software toolkit for biological research, teaching students how to program in R and Python, plan and manage agile projects, and document software. I have interests in computational math, computer science, and cybersecurity, and I hold a CompTIA Security+ ce certification. I am passionate about solving complex problems, learning new technologies, and contributing to innovative solutions.
 
 Currently, I work as a validation engineer and technical auditor for Charles Schwab. I ensure technologies are appropriately utilized, documented, and deployed. I validate the team follows their stated operating procedures and assist teams in finding solutions to issues with their processes or technologies.
 
 ## **Experience**
-
----
 
 **System Validation Engineer** \
 **Charles Schwab** \
@@ -79,16 +73,12 @@ Currently, I work as a validation engineer and technical auditor for Charles Sch
 
 ## **Education**
 
----
-
 **Arizona State University** \
 **Bachelor of Science - BS, Mathematics** \
 **2014 - 2018**
 - Graduated May 2018 from Arizona State University's Barrett Honors College with a bachelor's degree in Mathematics.
 
 ## **Licenses & Certifications**
-
----
 
 CompTIA Security+ ce Certification - CompTIA \
 Issued Jul 2021 - Expired Jul 2024
@@ -98,19 +88,13 @@ Issued September 2024 - Expires March 2026
 
 ## **Skills**
 
----
-
 Computational Mathematics • Software Design • Project Management • Algorithm Design • Site Reliability Engineering • Design automation • Information Security • Network Security • Team Management • Software Infrastructure  • Process Automation
 
 ## Links
 
----
-
 [LinkedIn Profile](linkedin.com/in/cass-pearson)
 
 # Tech Stack:
-
----
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
